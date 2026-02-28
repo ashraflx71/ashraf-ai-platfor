@@ -1,7 +1,0 @@
-import streamlit as st
-
-# ضبط عنوان المتصفح والأيقونة (المساحة العلوية)
-st.set_page_config(page_title="منصة أشرف للذكاء الأخضر 2026", page_icon="🌿")
-
-# عنوان الصفحة الرئيسي
-st.title("🚀 Ashraf AI Platform: مستقبل البرمجيات المستدامة")
