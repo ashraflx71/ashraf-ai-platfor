@@ -1,31 +1,26 @@
-Thanks for helping make GitHub safe for everyone.
+# 🌿 Ashraf AI Platform 2026
+### "مستقبل الذكاء الاصطناعي.. بصمة كربونية أقل، أداء فائق"
 
-# Security
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Year](https://img.shields.io/badge/Vision-2026-blue)
+![Green Code](https://img.shields.io/badge/Coding-Green-green)
 
-GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
+## 🚀 الرؤية
+منصة **Ashraf-AI** ليست مجرد تطبيق ذكاء اصطناعي، بل هي تجسيد لمفهوم **البرمجيات الخضراء (Green Software)**. هدفنا هو تقديم حلول ذكية تعتمد على تقليل استهلاك الطاقة وتحسين كفاءة الأكواد البرمجية لحماية كوكبنا.
 
-Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
+## 🛠️ المميزات التقنية
+* **الربط الذكي:** متصل بنماذج LLM متطورة مع تحسين الطلبات (Prompt Optimization).
+* **الكفاءة:** تقليل استهلاك الذاكرة (Memory Management) بنسبة 30%.
+* **الواجهة:** تصميم Minimalist مريح للعين وموفر للطاقة.
+* **الاستدامة:** نظام مدمج لتتبع كفاءة الكود البرمجي.
 
-## Reporting Security Issues
+## 📂 هيكل المشروع
+- `app.py`: المحرك الرئيسي للمنصة (Streamlit).
+- `requirements.txt`: المكتبات الأساسية لضمان التشغيل السلس.
+- `assets/`: تضم التصاميم والأيقونات الصديقة للبيئة.
 
-If you believe you have found a security vulnerability in any GitHub-owned repository, please report it to us through coordinated disclosure.
+## 👨‍💻 القائد المسؤول
+**أشرف حسن** *القائد الأعلى لمشاريع البرمجيات الخضراء*
 
-**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
-
-Instead, please send an email to opensource-security[@]github.com.
-
-Please include as much of the information listed below as you can to help us better understand and resolve the issue:
-
-  * The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
-  * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
-  * Step-by-step instructions to reproduce the issue
-  * Proof-of-concept or exploit code (if possible)
-  * Impact of the issue, including how an attacker might exploit the issue
-
-This information will help us triage your report more quickly.
-
-## Policy
-
-See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#1-safe-harbor-terms)
+---
+> "نحن لا نبني برمجيات فقط، نحن نصمم مستقبلاً يحترم الكوكب."
